@@ -7,7 +7,7 @@
     {
       "name": "ai-agent-team",
       "displayName": "AI Agent Team",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "5-role AI dev team + orchestration workflow, portable across projects.",
       "source": "."
     }

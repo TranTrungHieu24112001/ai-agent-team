@@ -1,6 +1,6 @@
 {
   "name": "ai-agent-team",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reusable 5-role AI dev team (manager, frontend-dev, backend-dev, tester, qa-qc) with an orchestration workflow. Stack-agnostic — drop into any project.",
   "author": {
     "name": "FinnTran"
