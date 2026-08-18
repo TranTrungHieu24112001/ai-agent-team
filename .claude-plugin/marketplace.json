@@ -9,11 +9,7 @@
       "displayName": "AI Agent Team",
       "version": "1.0.0",
       "description": "5-role AI dev team + orchestration workflow, portable across projects.",
-      "source": {
-        "type": "git",
-        "url": ".",
-        "ref": "main"
-      }
+      "source": "."
     }
   ]
 }
